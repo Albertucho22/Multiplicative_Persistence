@@ -1,0 +1,11 @@
+Requirements:
+1 - Make multiplicative persistence in c.
+
+Acceptance criteria:
+1 - Return multiplicative persistence of a number.
+2 - Non number multiplicative persistence is not possible.
+
+Scenarios:
+1.1 -> 39 -> 3
+1.2 -> 2677889 -> 8
+1.3 -> 26888999 -> 9
